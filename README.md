@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @szewczykmira
-- 👀 I’m interested in Fantasy, Books, Sewing, Hiking
+- 👀 I’m interested in Fantasy, Books, Sewing, Hiking, Sustainability
 - 🌱 I’m currently learning web components. After spending so many years on the backend it's good to update my FE knowledge.
 
 <!---
