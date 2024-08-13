@@ -14,7 +14,13 @@ I'm a Senior Backend Developer from Poland. I usually use the Python/Django stac
 
 
 ## Interests outside of programming
-🧝 📖 🪡 🥾🌍
+🧝 Fantasy
+📖 Books
+🪡 Sewing, embroidery, upcycling 
+🥾 Hiking, traveling
+🌍 Ecology, sustainability
+📸 Photography
+
 
 
 <!---
