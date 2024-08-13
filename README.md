@@ -10,7 +10,7 @@ I'm a Senior Backend Developer from Poland. I usually use the Python/Django stac
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 
 ## Stats
-[![](https://github-readme-stats.vercel.app/api?username=szewczykmira&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![szewczykmira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=szewczykmira&theme=nord&hide_border=true)
 
 
 ## Interests outside of programming
